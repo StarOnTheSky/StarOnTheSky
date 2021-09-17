@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @phone-burner
-- 👀 I’m interested in virtualization .
-- 🌱 I’m currently learning Android linux kernel compiling & modifying .
+- 👋 Hi, I’m @StarOnTheSky
+- 👀 I’m interested in Teeworlds.
+- 🌱 I’m currently learning C++ .
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me : OnlyNull on Telegram
 
