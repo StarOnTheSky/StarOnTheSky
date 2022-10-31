@@ -2,7 +2,9 @@
 - 👀 I’m interested in Teeworlds.
 - 🌱 I’m currently learning C++ .
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
-- 📫 How to reach me : Telegram: https://t.me/OnlyNull Email: i@sots.eu.org
+- 📫 How to reach me : 
+  - Telegram: https://t.me/OnlyNull
+  - Email: i@sots.eu.org
 
 <img src="https://github-readme-stats.vercel.app/api?username=StarOnTheSky&show_icons=true" />
 
