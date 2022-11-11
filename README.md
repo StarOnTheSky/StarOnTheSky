@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StarOnTheSky
 - 👀 I’m interested in Teeworlds.
 - 🌱 I’m currently learning C++ .
-<!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me : 
   - Telegram: https://t.me/OnlyNull
   - Email: i@sots.eu.org
