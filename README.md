@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarOnTheSky
-- 👀 I’m interested in Teeworlds.
-- 🌱 I’m currently learning C++ .
+- 👀 I’m interested in Robots.
+- 🌱 I’m currently learning STM32, OpenCV and some AI frameworks.
 - 📫 How to reach me : 
   - Email: i@sots.eu.org
 
